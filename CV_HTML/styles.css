@@ -1,0 +1,86 @@
+.divider{
+    border-bottom: 1px solid black;
+}
+
+body{
+    width:216mm;
+    border:1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    
+}
+
+
+
+*{
+    box-sizing: border-box;
+    font-family: garamond;
+}
+
+.Info h2{
+    font-weight: normal;
+    margin-block-start: 5px;
+    margin-block-end:5px;
+}
+
+.exp h2{
+    margin-block-start: 20px;
+    margin-block-end: 5px;
+    font-size: large;
+}
+
+.education h2{
+    margin-block-start: 20px;
+    margin-block-end: 5px;
+    font-size: large;
+}
+
+.skills h2{
+    margin-block-start: 20px;
+    margin-block-end: 5px;
+    font-size: large;
+}
+
+.job_title h3{
+    margin-block-end: 1px;
+}
+.job_des p{
+    margin-block-start: 1px;
+}
+
+
+.school h3{
+    margin-block-end: 1px;
+}
+
+.degree p{
+    margin-block-start: 1px;
+}
+
+
+
+.bold{
+    font-weight: bold;
+}
+.right{
+    float:right;
+}
+
+.italic{
+    font-style: italic;
+}
+
+
+
+a:visited {
+    color: black;
+}
+  
+a:hover {
+    color: black;
+}
+  
+a:active {
+    color: black;
+}
